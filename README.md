@@ -18,18 +18,19 @@ python3 Translo.py
 ##成功启动后即可通过IP访问 5001端口
 <img width="1382" height="329" alt="image" src="https://github.com/user-attachments/assets/6f76ab8b-2133-4fdf-93d2-484710481699" />
 
-##页面访问示例
-
+###页面访问示例
+文本翻译页面：
 <img width="1188" height="1024" alt="image" src="https://github.com/user-attachments/assets/a07a1325-280b-4272-afc7-5b557cbaa273" />
 
+网页翻译页面：
 <img width="1173" height="795" alt="image" src="https://github.com/user-attachments/assets/abc01142-3d31-4bdd-890e-3936e53c216a" />
 
-
+文件翻译页面：
 <img width="1177" height="897" alt="image" src="https://github.com/user-attachments/assets/c443860a-1877-43e9-812b-e07262cddbe0" />
 
 <img width="1016" height="517" alt="image" src="https://github.com/user-attachments/assets/b89aa3c1-8b1d-4da1-a8c8-f5e1a8ed7794" />
 
-
+翻译历史记录：
 <img width="1180" height="454" alt="image" src="https://github.com/user-attachments/assets/2d789106-f950-41fe-bcd6-53c75bb05ab1" />
 
 
