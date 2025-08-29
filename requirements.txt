@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+openai
+requests
+beautifulsoup4
+python-docx
+PyPDF2
+reportlab
+feedparser
